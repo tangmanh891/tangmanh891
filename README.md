@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Manh Tang
 
-<!--
-**tangmanh891/tangmanh891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?fit=crop&w=1200&q=80)
 
-Here are some ideas to get you started:
+## 🚀 Kỹ năng
+- Frontend: React, Vue, HTML, CSS, JavaScript
+- Backend: Node.js, Express, MongoDB
+- Tools: Git, Docker, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Dự án nổi bật
+- [PenNet](https://github.com/notDuyLam/PenNet): Mạng xã hội cho giáo viên và học sinh
+- [DO-AN-CO-CARO](https://github.com/notDuyLam/DO-AN-CO-CARO): Game cờ caro AI
+
+## 📈 Thống kê GitHub
+
+![tangmanh891's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangmanh891&show_icons=true&theme=radical)
+
+## 🌐 Kết nối với tôi
+[Facebook](https://facebook.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@gmail.com)
+
+---
+
+*Cảm ơn bạn đã ghé thăm profile của mình!*
