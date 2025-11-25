@@ -1,23 +1,52 @@
-# 👋 Xin chào! Tôi là Manh Tang
+# 👋 Xin chào, mình là Mạnh
 
-![Profile Banner](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?fit=crop&w=1200&q=80)
-
-## 🚀 Kỹ năng
-- Frontend: React, Vue, HTML, CSS, JavaScript
-- Backend: Node.js, Express, MongoDB
-- Tools: Git, Docker, VSCode
-
-## 🏆 Dự án nổi bật
-- [PenNet](https://github.com/notDuyLam/PenNet): Mạng xã hội cho giáo viên và học sinh
-- [DO-AN-CO-CARO](https://github.com/notDuyLam/DO-AN-CO-CARO): Game cờ caro AI
-
-## 📈 Thống kê GitHub
-
-![tangmanh891's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangmanh891&show_icons=true&theme=radical)
-
-## 🌐 Kết nối với tôi
-[Facebook](https://facebook.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@gmail.com)
+- 🤖 Chuyên ngành: Thị giác máy tính (Computer Vision)
+- 🎓 Sinh viên / Developer quan tâm đến: Deep Learning, Image Processing, ứng dụng AI vào đời sống
+- 💻 Ngôn ngữ chính: Python
+- 🧠 Framework: PyTorch / TensorFlow / OpenCV
+- 🎯 Mục tiêu: Trở thành Computer Vision Engineer / AI Engineer
 
 ---
 
-*Cảm ơn bạn đã ghé thăm profile của mình!*
+## 🛠 Tech Stack
+
+**Ngôn ngữ & Thư viện:**
+- Python
+- NumPy, Pandas, Matplotlib
+- OpenCV 
+- PyTorch / TensorFlow / Kera
+
+**Computer Vision:**
+- Xử lý ảnh cơ bản: lọc, phát hiện cạnh, segmentation cơ bản
+- CNN cho phân loại ảnh
+- Object Detection (YOLO, Faster R-CNN, SSD) 
+- Image Augmentation
+
+**Khác:**
+- Jupyter Notebook
+- Git, GitHub
+- Docker / VSCode / Google Colab 
+
+---
+
+## 🚀 Một số dự án thị giác máy tính
+
+### 1. [Tên dự án 1](https://github.com/username/repo1)
+**Mô tả:**
+- Ứng dụng ___ (VD: phân loại ảnh mèo/chó, nhận diện cảm xúc khuôn mặt, phát hiện người đeo khẩu trang, ...)  
+
+**Tech & Mô hình:**
+- Python, PyTorch, OpenCV
+- CNN / Transfer Learning (ResNet, VGG, MobileNet, ...)  
+
+**Điểm nổi bật:**
+- Thu thập / chuẩn hoá dataset riêng *(nếu có)*
+- Huấn luyện model và lưu lại checkpoint
+- Script inference demo trên ảnh / webcam
+
+---
+
+## 📫 Liên hệ
+
+- Email: tangmanh891@gmail.com
+- SDT: 0963413529
