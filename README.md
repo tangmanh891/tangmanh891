@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Mạnh
+# 👋 Xin chào, mình là Mành
 
 - 🤖 Chuyên ngành: Thị giác máy tính (Computer Vision)
 - 🎓 Sinh viên / Developer quan tâm đến: Deep Learning, Image Processing, ứng dụng AI vào đời sống
