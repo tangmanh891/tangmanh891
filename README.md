@@ -31,18 +31,28 @@
 
 ## 🚀 Một số dự án thị giác máy tính
 
-### 1. [Tên dự án 1](https://github.com/username/repo1)
-**Mô tả:**
-- Ứng dụng ___ (VD: phân loại ảnh mèo/chó, nhận diện cảm xúc khuôn mặt, phát hiện người đeo khẩu trang, ...)  
+### 1. [🔢 MNIST Digit Classification](https://github.com/tangmanh891/mnist-digit-classification)
+**Mô tả:**  
+Phân loại chữ số viết tay bằng CNN.
 
-**Tech & Mô hình:**
-- Python, PyTorch, OpenCV
-- CNN / Transfer Learning (ResNet, VGG, MobileNet, ...)  
-
+**Tech:** Python, PyTorch  
 **Điểm nổi bật:**
-- Thu thập / chuẩn hoá dataset riêng *(nếu có)*
-- Huấn luyện model và lưu lại checkpoint
-- Script inference demo trên ảnh / webcam
+- CNN cơ bản, cấu trúc rõ ràng, dễ hiểu
+- Training script + inference script hoàn chỉnh
+- Đạt ~98% accuracy
+
+---
+
+### 2. [😊 Face Emotion Recognition](https://github.com/tangmanh891/face-emotion-recognition)
+**Mô tả:**  
+Nhận diện cảm xúc khuôn mặt từ ảnh hoặc webcam realtime.
+
+**Tech:** Python, PyTorch, OpenCV  
+**Cảm xúc nhận diện:** angry, happy, sad, surprise, neutral, fear, disgust  
+**Điểm nổi bật:**
+- Demo realtime bằng webcam
+- Face detection + emotion classification pipeline
+- Train trên dataset FER2013
 
 ---
 
@@ -50,3 +60,4 @@
 
 - Email: tangmanh891@gmail.com
 - SDT: 0963413529
+
