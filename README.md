@@ -20,7 +20,7 @@
 - 🔬 Đam mê nghiên cứu về **Image Processing, Object Detection, Segmentation, 3D Vision**
 - 🌱 Đang học và tìm hiểu thêm về **Transformer-based Vision Models, Diffusion Models**
 - 💬 Hỏi tôi về **OpenCV, PyTorch, Deep Learning, Computer Vision**
-- 📫 Liên hệ: **tangmanh891@gmail.com** *(thay email của bạn)*
+- 📫 Liên hệ: **tangmanh891@gmail.com**
 - ⚡ Fun fact: *"Máy tính nhìn thế giới qua hàng triệu pixel, nhưng hiểu thế giới nhờ thuật toán."*
 
 ---
