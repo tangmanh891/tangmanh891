@@ -61,46 +61,46 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔍 Object Detection with YOLOv8</h3>
+      <h3 align="center">💡 AIOT Smart Light – Voice Control</h3>
       <p align="center">
-        <a href="https://github.com/tangmanh891/project-link" target="_blank">
+        <a href="https://github.com/tangmanh891/AIOT-Smart-Light-Voice" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Phát hiện đối tượng thời gian thực sử dụng YOLOv8 trên tập dữ liệu tùy chỉnh. Đạt mAP@50 = 0.92 trên tập test.</p>
-      <p><b>Tech:</b> Python, PyTorch, Ultralytics, OpenCV</p>
+      <p>Hệ thống điều khiển đèn thông minh bằng giọng nói tiếng Việt sử dụng ESP32 + Edge AI (Edge Impulse). Tích hợp SinricPro hỗ trợ Alexa / Google Home, có CI/CD với GitHub Actions.</p>
+      <p><b>Tech:</b> C/C++, ESP32, Edge Impulse, SinricPro, PlatformIO, Arduino</p>
     </td>
     <td width="50%">
-      <h3 align="center">🖼️ Image Segmentation</h3>
+      <h3 align="center">🎭 Face Emotion Recognition</h3>
       <p align="center">
-        <a href="https://github.com/tangmanh891/project-link" target="_blank">
+        <a href="https://github.com/tangmanh891/face-emotion-recognition" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Semantic segmentation trên ảnh y tế sử dụng U-Net và các biến thể Attention U-Net.</p>
-      <p><b>Tech:</b> Python, PyTorch, Albumentations, Segmentation Models</p>
+      <p>Nhận diện 7 loại cảm xúc khuôn mặt thời gian thực từ ảnh và webcam, sử dụng mô hình CNN 4 lớp conv. Giao diện web tương tác với Flask và Bootstrap 5.</p>
+      <p><b>Tech:</b> Python, TensorFlow/Keras, OpenCV, Flask, Bootstrap 5</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 Face Recognition System</h3>
+      <h3 align="center">🖼️ LaMa Image Inpainting</h3>
       <p align="center">
-        <a href="https://github.com/tangmanh891/project-link" target="_blank">
+        <a href="https://github.com/tangmanh891/DoAnThiGiacMayTinh" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Hệ thống nhận diện khuôn mặt sử dụng ArcFace + InsightFace, hỗ trợ điểm danh tự động.</p>
-      <p><b>Tech:</b> Python, InsightFace, OpenCV, FastAPI</p>
+      <p>Đồ án Thị giác Máy tính: ứng dụng mô hình LaMa (Large Mask Inpainting) để lấp đầy vùng bị che khuất trên ảnh độ phân giải cao. Đánh giá định lượng với SSIM, LPIPS, FID.</p>
+      <p><b>Tech:</b> Python, PyTorch, LaMa, Hydra, OpenCV</p>
     </td>
     <td width="50%">
-      <h3 align="center">📐 Pose Estimation</h3>
+      <h3 align="center">🔢 MNIST Digit Classification</h3>
       <p align="center">
-        <a href="https://github.com/tangmanh891/project-link" target="_blank">
+        <a href="https://github.com/tangmanh891/mnist-digit-classification" target="_blank">
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Ước lượng tư thế người sử dụng MediaPipe và ứng dụng trong phân tích động tác thể thao.</p>
-      <p><b>Tech:</b> Python, MediaPipe, OpenCV, Streamlit</p>
+      <p>Phân loại chữ số viết tay MNIST sử dụng mạng CNN. Khám phá các kỹ thuật tối ưu hóa, augmentation và đánh giá mô hình Deep Learning cơ bản.</p>
+      <p><b>Tech:</b> Python, TensorFlow/Keras, NumPy, Matplotlib</p>
     </td>
   </tr>
 </table>
@@ -145,10 +145,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/mành-tằng-660301349" target="_blank">
+  <a href="https://www.linkedin.com/in/mành-tằng-660301349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="tangmanh891@gmail.com">
+  <a href="mailto:tangmanh891@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.kaggle.com/tangmanh" target="_blank">
