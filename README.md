@@ -59,13 +59,4 @@ Object Detection · Image Segmentation · Face Analysis · Generative Models · 
 
 ---
 
-## GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tangmanh891&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangmanh891&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
 <sub>📬 Best way to reach me: <a href="mailto:tangmanh891@gmail.com">tangmanh891@gmail.com</a> — I respond within 24 hours.</sub>
